@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35984'
     url: http://www.gutenberg.org/2009/agents/35984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32681#The-Use-of-a-Box-of-Colours-in-a-Practical-Demonstration-on-Composition-Light-and-Shade-and-C_
 gutenberg_issued: '2010-06-04'
 gutenberg_type: Text
 identifiers:
