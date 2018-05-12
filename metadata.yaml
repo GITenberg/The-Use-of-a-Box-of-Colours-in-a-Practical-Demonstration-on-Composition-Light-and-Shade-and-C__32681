@@ -1,0 +1,26 @@
+_repo: The-Use-of-a-Box-of-Colours-in-a-Practical-Demonstration-on-Composition-Light-and-Shade-and-C__32681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willson, Harry, active 19th century
+    gutenberg_agent_id: '35984'
+    url: http://www.gutenberg.org/2009/agents/35984
+description: ''
+gutenberg_issued: '2010-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32681'
+  lccn: '12002778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Watercolor painting'
+title: The Use of a Box of Colours, in a Practical Demonstration on Composition, Light
+  and Shade, and Colour.
+url: http://www.gutenberg.org/ebooks/32681
